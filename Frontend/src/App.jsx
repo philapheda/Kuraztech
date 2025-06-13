@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const initialTasks = [
   { id: 1, title: 'Buy groceries', descripition : "milk egg ",completed: false ,expand : false },
-  { id: 2, title: 'Read a book',descripition : "milk egg ", completed: true , expand : false},
+  { id: 2, title: 'Read a book',descripition : "harry potter and the philosopher's stone ", completed: true , expand : false},
 ];
 
 export default function App() {
